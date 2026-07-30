@@ -2,7 +2,6 @@
 
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Avizit&textBg=false" width="100%" />
-
 <br/><br/>
 
 <!-- BADGES BAR -->
@@ -84,5 +83,4 @@ motto:    "Building robust code from low-level systems to modern web application
 <div align="center">
 
 <sub>Designed for <b>ItzAvizit</b></sub>
-
 </div>
