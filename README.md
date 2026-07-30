@@ -57,14 +57,14 @@
   <!-- Title & Tagline -->
   <text x="280" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="46" fill="url(#text-grad)" letter-spacing="1">Avizit</text>
   <text x="282" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-weight="600" font-size="14" fill="#94a3b8" letter-spacing="3">SOFTWARE ENGINEER • BACKEND & WEB DEVELOPER</text>
-  <text x="282" y="146" font-family="Consolas, monospace" font-size="12" fill="#06b6d4">avizit@github:~# ./start.sh --stack="Java, JS, HTML, C++"</text>
+  <text x="282" y="146" font-family="Consolas, monospace" font-size="12" fill="#06b6d4">itzavizit@github:~# ./start.sh --stack="Java, JS, HTML, C++"</text>
 </svg>
 
 <br/><br/>
 
 <!-- OCEAN BLUE & EMERALD BADGES BAR -->
-<a href="https://github.com/Avizit">
-  <img src="https://img.shields.io/badge/GITHUB-PROFILE-0a2540?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=040e1e" alt="GitHub Profile"/>
+<a href="https://github.com/ItzAvizit">
+  <img src="https://img.shields.io/badge/GITHUB-ItzAvizit-0a2540?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=040e1e" alt="GitHub Profile"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/PORTFOLIO-AVIZIT.DEV-0a2540?style=for-the-badge&logo=googlechrome&logoColor=06b6d4&labelColor=040e1e" alt="Website"/>
@@ -84,6 +84,7 @@
 
 ```yaml
 name:     "Avizit"
+handle:   "ItzAvizit"
 role:     "Software Engineer & Systems Developer"
 focus:    "High-Performance Backend Systems & Dynamic Web Applications"
 stack:    "Java • JavaScript • HTML5 • C++ • Node.js • SQL"
@@ -120,8 +121,8 @@ motto:    "Building robust code from low-level systems to modern web application
 ### `~/metrics`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avizit&show_icons=true&title_color=38bdf8&icon_color=34d399&text_color=94a3b8&bg_color=0a2540&hide_border=true&count_private=true" height="175" alt="Avizit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avizit&layout=compact&title_color=38bdf8&text_color=94a3b8&bg_color=0a2540&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItzAvizit&show_icons=true&title_color=38bdf8&icon_color=34d399&text_color=94a3b8&bg_color=0a2540&hide_border=true&count_private=true" height="175" alt="ItzAvizit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzAvizit&layout=compact&title_color=38bdf8&text_color=94a3b8&bg_color=0a2540&hide_border=true" height="175" alt="Top Languages" />
 </div>
 
 <br/>
@@ -130,9 +131,9 @@ motto:    "Building robust code from low-level systems to modern web application
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| ☕ **[Java Backend Engine](https://github.com)** | High-concurrency multithreaded REST API service & backend server | `Java` `Spring Boot` `MySQL` | `Active` |
-| 🌐 **[Interactive Web App](https://github.com)** | Modern responsive web application with dynamic DOM rendering | `JavaScript` `HTML5` `CSS3` | `Live` |
-| ⚡ **[C++ Memory Core](https://github.com)** | High-speed data structures & memory management utility library | `C++` `CMake` `Linux` | `Maintained` |
+| ☕ **[BMS-Chat](https://github.com/ItzAvizit/BMS-Chat)** | High-performance Java chat application | `Java` `Sockets` `Networking` | `Active` |
+| 🤖 **[BMS-INFO-Discord-Bot](https://github.com/ItzAvizit/BMS-INFO-Discord-Bot)** | Automated Discord bot for info & community management | `JavaScript` `Node.js` `Discord.js` | `Live` |
+| ⚡ **[C++ Core Engine](https://github.com/ItzAvizit)** | High-speed data structures & systems library | `C++` `CMake` `Linux` | `Maintained` |
 
 <br/>
 
@@ -140,6 +141,6 @@ motto:    "Building robust code from low-level systems to modern web application
 
 <div align="center">
 
-<sub>Designed for <b>Avizit</b> • To display on your profile, create a public repo named <b>Avizit/Avizit</b> and copy this file into <b>README.md</b></sub>
+<sub>Designed for <b>ItzAvizit</b> • Hosted at <b>github.com/ItzAvizit/ItzAvizit</b></sub>
 
 </div>
