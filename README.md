@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- GITHUB COMPATIBLE DYNAMIC HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:051329,50:0a2540,100:040e1e&height=220&section=header&text=Avizit&fontSize=50&fontColor=38bdf8&desc=SOFTWARE%20ENGINEER%20•%20BACKEND%20%26%20WEB%20DEVELOPER&descSize=16&descAlign=50&descAlignY=68" width="100%" />
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Avizit&textBg=false" width="100%" />
 
 <br/><br/>
 
-<!-- OCEAN BLUE & EMERALD BADGES BAR -->
+<!-- BADGES BAR -->
 <a href="https://github.com/ItzAvizit">
   <img src="https://img.shields.io/badge/GITHUB-ItzAvizit-0a2540?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=040e1e" alt="GitHub Profile"/>
 </a>
